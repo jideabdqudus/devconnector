@@ -1,0 +1,5 @@
+module.exports = {
+  mongoURI:
+    "mongodb+srv://jideabdqudus:jideabdqudus@contact-keeper-xrzge.mongodb.net/test?retryWrites=true&w=majority",
+  jwtSecret: "secret",
+};
